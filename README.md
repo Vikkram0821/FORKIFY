@@ -1,5 +1,6 @@
-<h1>Project Name: Recipe Finder</h1>
+<h1>Project Name: FORKIFY- The Recipe Finder</h1>
 
+<h2>Link</h2><a href="https://the-forkify-recipe-finder.netlify.app/">Forkify-app/</a>
 <h2>Description:</h2>
 <h4></h4>Recipe Finder is a dynamic web application developed using HTML, CSS, and JavaScript, leveraging the power of Parcel for module bundling and adhering to the MVC (Model-View-Controller) architecture. With a vast database of over 100,000 recipes, users can seamlessly search, bookmark favorites, add new recipes, and sort them based on serving sizes. This project not only showcases my proficiency in web development but also emphasizes best practices such as clear documentation and architectural design. Recipe Finder is a testament to continuous learning and improvement in the realm of JavaScript development.</h4>
 
